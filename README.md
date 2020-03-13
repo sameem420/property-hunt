@@ -1,2 +1,2 @@
 # csharp_helloWorld
-Program to display hello world in CSharp
+Simple program showing how to display/output hello world in CSharp
