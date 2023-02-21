@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\BCMI Documents\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\HP\Desktop\BCMI Documents\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\HP\Desktop\BCMI Documents\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\HP\Desktop\BCMI Documents\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\HP\Desktop\BCMI Documents\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\HP\Desktop\BCMI Documents\Operators\obj\Debug\net7.0\ref\Operators.dll
