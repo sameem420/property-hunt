@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\bin\Debug\net7.0\Comments.exe
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\bin\Debug\net7.0\Comments.deps.json
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\bin\Debug\net7.0\Comments.runtimeconfig.json
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\bin\Debug\net7.0\Comments.dll
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\bin\Debug\net7.0\Comments.pdb
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.dll
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\refint\Comments.dll
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.pdb
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\Comments.genruntimeconfig.cache
+C:\Users\HP\Desktop\BCMI Documents\LearningCSharp\Overview\Comments\obj\Debug\net7.0\ref\Comments.dll
