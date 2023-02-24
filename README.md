@@ -1,7 +1,6 @@
 # LearningCSharp
 
-| Serial No. | Program |
-| ----------- | ----------- |
-| 1  | Hello World |
-| 2  | Data Types | 
+| Serial No. | Folder | Programs |
+| ----------- | ----------- | ----------- |
+| 1  | Overview | HelloWorld - DataTypes - VarsandDataTypes - Comments |
 
