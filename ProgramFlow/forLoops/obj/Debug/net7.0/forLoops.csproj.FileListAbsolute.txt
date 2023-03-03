@@ -1,0 +1,15 @@
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\bin\Debug\net7.0\forLoops.exe
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\bin\Debug\net7.0\forLoops.deps.json
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\bin\Debug\net7.0\forLoops.runtimeconfig.json
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\bin\Debug\net7.0\forLoops.dll
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\bin\Debug\net7.0\forLoops.pdb
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.csproj.AssemblyReference.cache
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.AssemblyInfo.cs
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.dll
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\refint\forLoops.dll
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.pdb
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\forLoops.genruntimeconfig.cache
+C:\Users\samee\Desktop\Learning C#\ProgramFlow\forLoops\obj\Debug\net7.0\ref\forLoops.dll
